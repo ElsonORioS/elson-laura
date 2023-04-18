@@ -71,4 +71,5 @@ footer{
 #pe{
     color: bisque;
     text-align:center;
+    display: block;
 }
