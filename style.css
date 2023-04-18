@@ -4,6 +4,7 @@ body{
     background-image: linear-gradient(to top, rgb(251, 115, 179),rgb(238, 179, 246) );
     height: 100vh;
     background-attachment: fixed;
+    margin: auto;
 
 
 
@@ -16,7 +17,7 @@ h2{
     font-family: 'Courier New', Courier, monospace;
 }
 main{
-    
+    background-position:auto;
     background-color: white;
     width: 700px;
     height:max-content;
